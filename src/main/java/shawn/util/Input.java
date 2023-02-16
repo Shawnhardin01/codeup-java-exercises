@@ -1,4 +1,4 @@
-package hello.util;
+package shawn.util;
 
 import java.util.Scanner;
 

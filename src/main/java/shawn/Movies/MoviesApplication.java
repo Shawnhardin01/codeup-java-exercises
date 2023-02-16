@@ -1,8 +1,8 @@
-package hello.Movies;
+package shawn.Movies;
 import java.util.Arrays;
-import hello.util.Input;
+import shawn.util.Input;
 
-import static hello.Movies.MoviesArray.*;
+import static shawn.Movies.MoviesArray.*;
 
 public class MoviesApplication {
 

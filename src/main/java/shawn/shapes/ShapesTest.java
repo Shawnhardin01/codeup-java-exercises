@@ -1,5 +1,5 @@
-package hello.shapes;
-import hello.shapes.Rectangle;
+package shawn.shapes;
+
 public class ShapesTest {
     public static class Fox1 extends Rectangle{
 

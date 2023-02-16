@@ -1,4 +1,4 @@
-package hello.shapes;
+package shawn.shapes;
 
 import java.util.Scanner;
 public class Circle {

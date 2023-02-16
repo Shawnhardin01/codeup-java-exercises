@@ -1,4 +1,4 @@
-package hello.Movies;
+package shawn.Movies;
 
 import java.util.ArrayList;
 import java.util.List;

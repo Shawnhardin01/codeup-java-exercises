@@ -1,5 +1,4 @@
-package hello.shapes;
-import hello.shapes.Rectangle;
+package shawn.shapes;
 
 public class Square extends Rectangle  {
     protected double side;

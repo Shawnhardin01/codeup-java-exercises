@@ -1,6 +1,4 @@
-package hello.util;
-
-import hello.util.Input;
+package shawn.util;
 
 public class InputTest {
     public static void main(String[] args) {

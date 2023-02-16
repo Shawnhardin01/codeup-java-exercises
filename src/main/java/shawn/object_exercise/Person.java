@@ -1,4 +1,4 @@
-package hello.object_exercise;
+package shawn.object_exercise;
 
 
 public class Person {

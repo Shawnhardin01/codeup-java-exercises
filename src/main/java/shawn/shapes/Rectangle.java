@@ -1,11 +1,7 @@
-package hello.shapes;
-
-import hello.util.Input.*;
+package shawn.shapes;
 
 
-
-
-        public class Rectangle {
+public class Rectangle {
             protected double length;
             protected double width;
 

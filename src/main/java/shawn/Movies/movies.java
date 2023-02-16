@@ -1,9 +1,4 @@
-package hello.Movies;
-
-import java.util.ArrayList;
-import java.util.List;
-
-import static hello.Movies.MoviesArray.findAll;
+package shawn.Movies;
 
 public class movies {
     static class Movie {
