@@ -63,5 +63,12 @@ public class Input {
             System.out.print("Please enter a decimal number: ");
         }
     }
+    public int plusOne() {
+     while (true){
+        try {
+            return Integer.parseInt(scanner.next())+ 1;
+        } catch (NumberFormatException e) {}
+        System.out.println("not a real number");
 }
-
+}
+}

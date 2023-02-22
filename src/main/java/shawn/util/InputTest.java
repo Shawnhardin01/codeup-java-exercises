@@ -21,5 +21,8 @@ public class InputTest {
 
         System.out.print("Please enter a decimal number: ");
         System.out.println("You entered: " + input.getDouble());
+
+        System.out.print("Please enter a  number: ");
+        System.out.println("You entered: " + input.plusOne());
     }
 }
