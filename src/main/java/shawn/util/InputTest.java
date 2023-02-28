@@ -1,5 +1,7 @@
 package shawn.util;
 
+
+
 public class InputTest {
     public static void main(String[] args) {
         Input input = new Input();
@@ -24,5 +26,6 @@ public class InputTest {
 
         System.out.print("Please enter a  number: ");
         System.out.println("You entered: " + input.plusOne());
+
     }
 }

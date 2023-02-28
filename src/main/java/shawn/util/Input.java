@@ -68,7 +68,9 @@ public class Input {
         try {
             return Integer.parseInt(scanner.next())+ 1;
         } catch (NumberFormatException e) {}
-        System.out.println("not a real number");
+        System.out.println("(⇀‸↼‶)⊃━☆ﾟ.*･｡ﾟ"+" "+" please enter a real number"
+        );
 }
-}
-}
+}}
+
+
