@@ -23,6 +23,10 @@ public class Person {
         moe.name = "Moe";
         moe.getName();
         moe.sayHello();
+        Person joe = new Person();
+        joe.name = "joe";
+        joe.getName();
+        joe.sayHello();
 
     }
 
